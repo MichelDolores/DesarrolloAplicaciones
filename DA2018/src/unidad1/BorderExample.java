@@ -10,7 +10,7 @@ public class BorderExample
 	private JFrame f;//jFrame es contenedor 
 	private JButton bn, bs, bw, be, bc;//componentes
 
-	public BorderExample()//inicializamos el jfram y los botones
+	public BorderExample()//inicializamos el Jfram y los botones
 	{
 		f=new JFrame("Border Layout");
 		bn=new JButton("Button 1");
